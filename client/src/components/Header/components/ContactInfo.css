@@ -1,0 +1,22 @@
+.Header__Contact-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.Header__Contact-info-record {
+  margin-left: 15px;
+}
+.Header__Contact-info-heading {
+  line-height: 1.5;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.Header__Contact-info-text {
+  color: #777;
+}
+.Header__Contact-info-icon {
+  border: 1px solid #000;
+  border-radius: 50%;
+  padding: 5px 10px;
+}

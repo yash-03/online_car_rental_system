@@ -1,0 +1,11 @@
+.Header__SocialIcon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+}
+.Header__SocialIcon-icon {
+  background-color: #777;
+  border-radius: 5px;
+  padding: 5px;
+}

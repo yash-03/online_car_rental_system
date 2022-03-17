@@ -1,11 +1,15 @@
+import Header from "./components/Header";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Welcome to online car rental system
+        <Header />
       </header>
+      <nav>Navbar</nav>
+      <main>Main component</main>
+      <footer>footer</footer>
     </div>
   );
 }

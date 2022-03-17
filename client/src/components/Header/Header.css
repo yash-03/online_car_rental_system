@@ -1,0 +1,12 @@
+.Header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+.Header__SocialIcon-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 420px;
+}
